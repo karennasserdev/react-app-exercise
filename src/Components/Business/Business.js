@@ -8,7 +8,7 @@ const business = { //nosso objeto é sobre as pizzas
     city: "Flavortown",
     state: "NY",
     zipCode: "10101",
-    category: "Italian",
+    category: "ITALIAN",
     rating: 4.5,
     reviewCount: 90,
 };
